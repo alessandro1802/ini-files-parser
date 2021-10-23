@@ -1,4 +1,3 @@
-# ini-files-parser
-# usage: 
-#    compile it;
-#    ./inifiles "qweqweqw" "12313"
+usage: 
+    compile it;
+    ./inifiles "qweqweqw" "12313"

@@ -1,7 +1,7 @@
-<h3>usage:</h3>
+## usage:
 
-&ensp;compile it;
+- compile it;
 
-&ensp;$ ./program PATH-TO-INI-FILE.ini section.key
+- $ ./program PATH-TO-INI-FILE.ini section.key
 
 it prints out the value of key in the given section.

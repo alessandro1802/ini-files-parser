@@ -1,0 +1,16 @@
+# Check the status
+git status
+
+# Add all files for commitment
+git add -A
+# Add only one particular file
+git add file.extention
+
+# Commit changes
+git commit -m "Comment on changes"
+
+# Push the changes to the repository
+git push
+
+# Get the changes made by others
+git pull
